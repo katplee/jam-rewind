@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arena
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3158905625
+    locked: 0
+  - name: Markers
+    uniqueID: 3496376177
+    locked: 0
+  - name: Recorded
+    uniqueID: 4062446189
+    locked: 0
+  - name: Active
+    uniqueID: 3942789589
+    locked: 0
+  - name: Overlays
+    uniqueID: 1055896565
+    locked: 0
